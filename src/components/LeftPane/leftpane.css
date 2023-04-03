@@ -1,0 +1,76 @@
+.leftPaneBox{
+        flex: 2;
+        background-color: white;
+        
+}
+
+
+
+.leftPaneBoxTop{
+    padding: 22px;
+    align-items: center;
+}
+
+
+.leftPaneContainer{
+    background-color: beige;
+    width: 95%;
+    margin-left: 5px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+
+
+.logoName{
+    font-size: 34px;
+    font-weight: 500;
+    padding: 6px;
+    color:black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    
+}
+
+
+.leftPaneBoxBottom{
+    margin-top: 26px;
+    padding: 20px;
+    background-color: beige;
+    border-radius: 20px;
+    
+
+}
+
+
+.leftPaneMenu{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.leftPaneMenuItem{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+
+.leftPaneMenuIcon{
+    margin-right: 18px;
+}
+
+
+.profilePic{
+    height: 33px;
+    width: 33px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.leftPaneMenuText1{
+    font-family: sans-serif;
+    margin-left: 9px;
+}

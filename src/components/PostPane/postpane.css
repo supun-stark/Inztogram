@@ -1,0 +1,64 @@
+.postPaneBox{
+    background-color: beige;
+    flex: 5.5;
+    
+}
+
+
+
+.postPaneTop{
+    height: 95px;
+    width: 97%;
+    background-color: lightblue;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+   
+}
+
+
+.storyLayer{
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    
+}
+
+
+
+.storyPic{
+    height: 57px;
+    width: 56px;
+    border-radius: 50%;
+    border: 3px solid rgb(191,0,255);
+    object-fit: cover;
+    margin-right: 5px;
+    margin-bottom: 10px;
+
+    
+}
+
+.storyName{
+       top: 90px;
+       position: absolute; 
+       font-family: sans-serif;
+       font-size: 12px;
+        
+        
+}
+
+.arrowIcon{
+    
+    color: blue;
+}
+
+.iconStyle{
+        padding: 1px;
+        height: 21px;
+        width: 21px;
+        background-color: aliceblue;
+        border-radius: 50%;
+        align-items: center;
+}
+

@@ -1,0 +1,172 @@
+.proPic{
+    width: 41px;
+    height: 41px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.postContainer{
+    width: 97%;
+    margin-top: 10px;
+    padding: 10px;
+
+}
+
+.postTop{
+    align-items: center;
+    margin-top: 11px;
+    display: flex;
+    width: 97%;
+}
+
+
+.postDetails{
+    margin: 0;
+    padding: 0;
+    flex-direction: column;
+    display: flex;
+    margin-left: 10px;
+    font-family: sans-serif;   
+}
+
+
+
+.postLocation{
+    margin-top: 8px;
+    margin: 0;
+    padding: 0;
+    font-size: 11px;
+   
+}
+
+.userName{
+    left: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+
+
+.postTime{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.time{
+    font-family: sans-serif;
+    font-size: 9px;
+    color: gray;
+    
+}
+
+.postCenter{
+    margin-top: 10px;
+    width: 98%;
+}
+
+.postedImg{
+    width: 100%;
+    background-size: cover;
+}
+
+.likeImg{
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    object-fit: cover;
+
+}
+
+.postBottom{
+    padding: 5px;
+    width: 97%;
+    justify-content: space-between;
+}
+
+
+.postReacts{
+    margin-top: 2px;
+    align-items: center;
+    display: flex;  
+}
+
+
+
+.heart{
+    margin-left: 5px;
+}
+
+
+.comments{
+    margin-left: 10px;
+}
+
+
+.share{
+    margin-left: 10px;
+}
+
+
+
+.saved{
+    margin-left: 500px;
+}
+
+
+
+.postLikes{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.likeBy{
+    margin-left: 10px;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.aboutPost{
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.postComments{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 12px;
+    
+}
+
+.addComments{
+    margin-top: 4px;
+    align-items: center;
+}
+
+
+
+.addComment{
+    font-family: sans-serif;
+    border: none;
+    width: 95%;
+    border-radius: 10px;
+    font-size: 12px;
+}
+
+.addComment:focus{
+    outline: none;
+}
+
+
+.commentsCount{
+    color: gray;
+}
+
+
+

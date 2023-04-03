@@ -1,0 +1,196 @@
+.rightPaneBox{
+    background-color: white;
+    flex: 3.5;
+}
+
+
+.rightPaneContainer{
+    padding: 10px;
+    
+}
+
+
+.rightPaneTop{
+    height: 100px;
+    width: 98%;
+    background-color: beige;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;   
+}
+
+
+.profileBox{
+    display: flex;
+    align-items: center;
+    padding: 0;
+    margin-left: 10px;
+    border-radius: 50%;
+}
+
+
+.proPic{
+    height: 56px;
+    width: 55px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+.profileDetails{
+    padding: 10px;
+    background-color: beige;
+    margin-left: 5px;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.realName{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+
+
+.userName {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+
+
+.switch{
+    height: 14px;
+    padding: 8px;
+    background-color: white;
+    margin-left: 125px;
+    align-items: center;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-size: 13px;
+    color: rgb(65,105,225);
+}
+
+
+
+.rightPaneCenter{
+    margin-top: 20px;
+    background-color: beige;
+    border-radius: 10px;
+    padding: 10px;
+    width: 93%;   
+}
+
+
+
+.rightPanecenterTop{
+    background-color: beige;
+   padding: 10px;
+}
+
+
+
+.seeAllBtn{
+    margin-left: 185px;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+
+
+.suggestion{
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+
+
+.sugegestionList{
+    margin-top: 10px;
+    list-style: none;
+    padding: 10px;
+}
+
+
+
+.img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+
+.suggestionBox{
+    background-color: white;
+    margin-top: 10px;
+    height: 60px;
+    width: 100%;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.suggestedPic{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    object-fit: cover;
+
+}
+
+.dpBox{
+    padding: 0px;
+    background-color: lightseagreen;
+    align-items: center;
+    display: flex;
+    margin-left: 10px;
+    border-radius: 50%;
+}
+
+.proDetails{
+    background-color: white;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 5px;
+    width: 220px;
+    
+}
+
+
+.button1{
+    background-color: white;
+    align-items: center;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-size: 14px;
+    height: 15px;
+    padding:8px;
+    margin-left: 20px;
+}
+
+.suggestName{
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.followersNames{
+    font-family: sans-serif;
+    font-size: 11px;
+
+}
+
+.followButton{
+    font-family: sans-serif;
+    color: rgb(65,105,225);
+    font-size: 13px;
+}
+
+
+
+
